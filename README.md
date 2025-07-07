@@ -1,6 +1,6 @@
 # GitHub အသုံးပြုနည်းအခြေခံများ
-1.. မိမိရေးထားတဲ့ AppProjects တွေကို Aide ထဲက source codes အတိုင်း Folder/ File
-    များအား browser တစ်ခုဖြစ်သည့် GitHub.com အပေါ်သို့ upload / download လုပ်နိုင်သည်...
+1.. မိမိရေးထားတဲ့ AppProjects တွေကို Aide ထဲက Source codes အတိုင်း Folder/ File
+    များအား Browser တစ်ခုဖြစ်သည့် GitHub.com အပေါ်သို့ upload / download လုပ်နိုင်သည်...
     
 2.. Project တစ်ခုအား GitHub နှင့်တွဲသုံးရန် နည်းလမ်း (၃)ခုရှိသည်...
 
@@ -17,4 +17,13 @@
 5.. အပြီးဖျက်လိုသည့် မိမိရဲ့ repository တစ်ခုအား စနစ်တကျဖျက်နည်း၊
 
 6.. Password အစား PAT(Personal Access Tokens) သုံးနည်း၊
+
+# Aide နှင့် GitHub ချိတ်ဆက်နည်းလမ်း
+    - Aide အား Github နှင့် ချိတ်ဆက်ထားမှသာ project တွေကို internet အပေါ်မှာ
+      upload /download ရယူနိုင်မည်၊
+    - Aide/Settings/Git Source Control/ တွင် username|useremail 
+      များအားဖြည့်ပြီး Create Repo အား Enable ထားပေးရမည်၊ 
+    - Git Source Control ထဲမှာ ထိုသုံးချက်သာ လုပ်ဆောင်ပေးရန်ဖြစ်သည်၊
+    - User Name သည် GitHub မှာပေးထားသည့် နာမည်ဖြစ်သည်၊
+    - User Email သည် GitHub ဖွင့်ထားသုံးထားသည့် email အားထည့်ရန်ဖြစ်သည်၊
 
