@@ -39,8 +39,7 @@
     တစ်ခုအားထည့်သွင်းအသုံးပြုနိုင်မည် ဖြစ်သည်...
     
 # GitHubမှ repositoryအား AppProjectတွင် download ချခြင်း (3rd step)
-.. Aide project ထဲသို့ GitHub မှ repository တစ်ခုအား Clone Git Repository ပြုလုပ်၍
-   မိမိ project အား ချိတ်ဆက်အသုံးပြုနိုင်မည်...
+.. Aide project ထဲသို့ GitHub မှ repository တစ်ခုအား Clone Git Repository ပြုလုပ်၍မိမိ project အား ချိတ်ဆက်အသုံးပြုနိုင်မည်...
      - Github မှ Your repositories နှိပ်ပြီး မိမိသုံးမည့် repository ရွေး၍ Code(အစိမ်းရောင်ဖြင့်ပြ)
        မှ HTTPS မှ web url အား copy ပေးပြီး aide ထဲတွင် clone လုပ်နိုင်မည်
      - မိမိရဲ့ project တွင်ဝင်၍ Github မှ copy ဆွဲယူလာသော
