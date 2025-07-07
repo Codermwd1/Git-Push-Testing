@@ -19,8 +19,8 @@
 6.. Password အစား PAT(Personal Access Tokens) သုံးနည်း၊
 
 # Aide နှင့် GitHub ချိတ်ဆက်နည်းလမ်း
-    - Aide အား Github နှင့် ချိတ်ဆက်ထားမှသာ project တွေကို internet အပေါ်မှာ
-      upload /download ရယူနိုင်မည်၊
+    Aide အား Github နှင့် ချိတ်ဆက်ထားမှသာ project တွေကို internet အပေါ်မှာ
+      upload /download ရယူနိုင်မည်...
     - Aide/Settings/Git Source Control/ တွင် username|useremail 
       များအားဖြည့်ပြီး Create Repo အား Enable ထားပေးရမည်၊ 
     - Git Source Control ထဲမှာ ထိုသုံးချက်သာ လုပ်ဆောင်ပေးရန်ဖြစ်သည်၊
